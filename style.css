@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  -ms-align-items: center;
+  align-items: center;
+}
+
+h1 {
+  margin: 50px auto;
+  text-align: center;
+  font-weight: 100px;
+  letter-spacing: 5px;
+}
+
+canvas {
+  display: flex;
+  margin: 0 auto;
+}
